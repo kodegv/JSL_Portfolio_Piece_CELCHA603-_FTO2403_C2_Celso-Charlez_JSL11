@@ -2,91 +2,91 @@ export const initialData = [
     {
       "id": 1,
       "title": "Launch Epic Career 🚀",
-      "description": "Create a killer Resume",
+      "description": "Craft a standout resume",
       "status": "todo",
       "board": "Launch Career"
     },
     {
       "id": 2,
       "title": "Master JavaScript 💛",
-      "description": "Get comfortable with the fundamentals",
+      "description": "Solidify your grasp on the basics",
       "status": "doing",
       "board": "Launch Career"
     },
     {
       "id": 3,
       "title": "Keep on Going 🏆",
-      "description": "You're almost there",
+      "description": "You're nearing the finish line",
       "status": "doing",
       "board": "Launch Career"
     },
     {
         "id": 4,
         "title": "Conquer React ⚛️",
-        "description": "Get up and running with a popular library.",
+        "description": "Get started with this essential library.",
         "status": "todo",
         "board": "Roadmap"
     },
     {
         "id": 5,
         "title": "Understand Databases 📅",
-        "description": "Begin your backend journey",
+        "description": "Embark on your backend development path",
         "status": "todo",
         "board": "Roadmap"
     },
     {
         "id": 6,
         "title": "Crush Frameworks 🔨",
-        "description": "Create a plan to study hard",
+        "description": "Develop a detailed study plan",
         "status": "todo",
         "board": "Roadmap"
     },
     {
         "id": 7,
         "title": "Explore ES6 Features 🚀",
-        "description": "Learn modern JavaScript syntax and features",
+        "description": "Master modern JavaScript features and syntax",
         "status": "doing",
         "board": "Roadmap"
     },
     {
         "id": 8,
         "title": "Build a React Component 🧱",
-        "description": "Start with a simple component and gradually add complexity",
+        "description": "Begin with a basic component and incrementally add features",
         "status": "done",
         "board": "Roadmap"
     },
     {
         "id": 9,
         "title": "Redux State Management 🔄",
-        "description": "Understand and implement Redux for state management in React apps",
+        "description": "Learn to manage state in React applications with Redux",
         "status": "doing",
         "board": "Roadmap"
     },
     {
         "id": 10,
         "title": "Deploy React App 🚀",
-        "description": "Learn to deploy React applications using platforms like Netlify or Vercel",
+        "description": "Deploy your React app using platforms like Netlify or Vercel",
         "status": "done",
         "board": "Roadmap"
     },
     {
         "id": 11,
         "title": "Learn Data Structures and Algorithms 📚",
-        "description": "Study fundamental data structures and algorithms to solve coding problems efficiently",
+        "description": "Dive into essential data structures and algorithms for efficient problem solving",
         "status": "todo",
         "board": "Launch Career"
     },
     {
         "id": 12,
         "title": "Contribute to Open Source Projects 🌐",
-        "description": "Gain practical experience and collaborate with others in the software development community",
+        "description": "Gain hands-on experience and collaborate with the development community",
         "status": "doing",
         "board": "Launch Career"
     },
     {
         "id": 13,
         "title": "Build Portfolio Projects 🛠️",
-        "description": "Create a portfolio showcasing your skills and projects to potential employers",
+        "description": "Develop projects to showcase your abilities to potential employers",
         "status": "doing",
         "board": "Launch Career"
     }
